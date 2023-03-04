@@ -35,6 +35,5 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
-    "cordova-plugin-firebase-analytics": "git+https://github.com/anaidenko/cordova-plugin-firebase-analytics.git"
   }
 }
